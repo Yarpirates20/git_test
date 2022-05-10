@@ -1,6 +1,8 @@
 Controls to know:
 
 git status
-git add <filename>
+git add <filename>  // adds files to staging area
 git commit -m "Comment about change"
 git log
+
+git push
